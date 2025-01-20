@@ -4,5 +4,6 @@ public class Main{
         Scanner Object1 = new Scanner(System.in)
         System.out.print("Hello, welcome. Did you click this button")    
         String yesno = Object1.nextline;
+        if(yesno.isequalto("no"));
     }
 }
