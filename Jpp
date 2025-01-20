@@ -5,5 +5,6 @@ public class Main{
         System.out.print("Hello, welcome. Did you click this button")    
         String yesno = Object1.nextline;
         if(yesno.isequalto("no"));
+        System.out.print("Hi");
     }
 }
